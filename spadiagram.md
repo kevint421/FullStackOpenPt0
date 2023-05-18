@@ -8,5 +8,5 @@ sequenceDiagram
     server-->>browser: status code 201 created
     deactivate server
 
-    Note right of browser: Content-Type header of request tells server that the included data is represented in JSON format
+    Note right of browser: s
     ```
